@@ -1,16 +1,48 @@
-## Hi there 👋
+# Syed Muddasir
 
-<!--
-**CNtrick/CNtrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Software Engineer with 7+ years of experience building scalable web applications, enterprise platforms, and API-driven systems.
 
-Here are some ideas to get you started:
+I work across frontend, backend, APIs, integrations, databases, performance optimization, and production engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Stack
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Node.js
+- NestJS
+- PHP
+- Laravel
+- WordPress
+- WooCommerce
+- PostgreSQL
+- MySQL
+- Redis
+- REST APIs
+- Docker
+- CI/CD
+
+## Selected Experience
+
+- Top Class Actions
+- TopDog Law
+- Vistex
+- Xero Shoes
+
+## Engineering Focus
+
+- Full Stack Application Development
+- API Design & Integrations
+- WordPress & PHP Engineering
+- Performance & Core Web Vitals
+- Production Troubleshooting
+- Secure, Maintainable Software Delivery
+
+## Portfolio
+
+[syedmuddasir.com](https://www.syedmuddasir.com)
+
+## LinkedIn
+
+[linkedin.com/in/syedmuddasirsafdar](https://www.linkedin.com/in/syedmuddasirsafdar)
