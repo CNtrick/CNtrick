@@ -4,7 +4,7 @@
 
 I'm a Full Stack Software Engineer with **7+ years of professional experience** building scalable web applications, enterprise platforms, API-driven systems, and high-traffic websites.
 
-I work across the full application lifecycle — from frontend architecture and backend development to APIs, integrations, databases, performance optimization, debugging, and production delivery.
+I work across the full application lifecycle, from frontend architecture and backend development to APIs, integrations, databases, performance optimization, debugging, and production delivery.
 
 📍 Gainesville, Florida, USA  
 🌐 [syedmuddasir.com](https://www.syedmuddasir.com)  
